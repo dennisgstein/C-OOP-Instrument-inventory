@@ -1,0 +1,13 @@
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.csprojAssemblyReference.cache
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.csproj.CoreCompileInputs.cache
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.AssemblyInfoInputs.cache
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.AssemblyInfo.cs
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/values.csv
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/oopFinalProject.deps.json
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/oopFinalProject.runtimeconfig.json
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/oopFinalProject.runtimeconfig.dev.json
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/oopFinalProject.dll
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/bin/Debug/netcoreapp3.1/oopFinalProject.pdb
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.dll
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.pdb
+/Users/DennisStein/Projects/oopFinalProject/oopFinalProject/obj/Debug/netcoreapp3.1/oopFinalProject.genruntimeconfig.cache
